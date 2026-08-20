@@ -1,4 +1,4 @@
-# Multiple-Disease-Prediction-System-and-Dosage-Recommendation-System-
+# Multiple-Disease-Prediction-System-and-Dosage-Recommendation-System
 
 1. Multi-Disease Prediction: Leverages trained ML models to evaluate risk for multiple health conditions simultaneously.
 
